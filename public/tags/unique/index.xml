@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unique on National Athletics League</title>
+    <link>http://example.org/tags/unique/</link>
+    <description>Recent content in unique on National Athletics League</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/unique/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What we are vs. What we are not</title>
+      <link>http://example.org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>ARE: An independent system parallel to - not in conflict or competition with - existing systems or institutions.
+ARE NOT: USATF or AAU affiliated or sanctioned organization.
+ARE: Sports team that exists and represents its community, city and partners year round.
+ARE NOT: Running group, throws camp, jumpers clinic.
+ARE:: First step towards a pyramid of pro, semi-pro, competitive rec teams and leagues in athletics.
+ARE NOT: Track meet, series or circuit; fitness games; corporate wellness; charity; science fair project.</description>
+    </item>
+    
+  </channel>
+</rss>

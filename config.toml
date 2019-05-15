@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "National Athletics League"
 theme = "hyde"
@@ -6,3 +6,4 @@ theme = "hyde"
 [params]
  themeColor = "theme-base-NAL"
  description = "Learn more, pass it along."
+ logo = "images/NAL_Shield_White.png"
