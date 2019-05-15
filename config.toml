@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "National Athletics League"
+theme = "hyde"
+
+[params]
+ themeColor = "theme-base-NAL"
+ description = "Learn more, pass it along."
