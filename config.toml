@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://nal.netlify.com/"
 languageCode = "en-us"
 title = "National Athletics League"
 theme = "hyde"
