@@ -2,6 +2,7 @@
 layout: post
 linktitle: For coaches
 title: What's in it for you?
+date: "2019-05-15"
 menu:
   main:
     weight: 1
