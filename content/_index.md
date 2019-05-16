@@ -4,11 +4,11 @@ tags: ["unique"]
 ---
 <h3>We should talk if....</h3>  
 
-<h4>You're not ready for your athletics career to be over.</h4><br>
+<h4>You're not ready to be done with throwing, jumping or running.</h4><br>
 
-<h4>You're tired of training alone and being "unattached."</h4><br>
+<h4>You're tired of being an "unattached" adult at college meets.</h4><br>
 
-<h4>You don't feel a whole lot of job security in track & field.</h4><br>  
+<h4>You don't feel a whole lot of job security as coach or athlete in track & field.</h4><br>  
 
 <h4>You look at track & field and think "there has to be more than this."</h4><br>
 
