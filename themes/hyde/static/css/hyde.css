@@ -277,7 +277,8 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-NAL .content a,
 .theme-base-NAL .related-posts li a:hover {
-  color: #2d4268;
+  color: #265ec3;
+  text-decoration: underline;
 }
 .theme-base-NAL .content p, li {
  font-family: "Brix Slab", sans-serif;
