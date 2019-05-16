@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What we are vs. What we are not
+linktitle: The FAQ's
 tags: ["unique"]
 ---
 <h4>ARE:<span> An independent system parallel to - not in conflict or competition with - existing systems or institutions.</span></h4><br>
