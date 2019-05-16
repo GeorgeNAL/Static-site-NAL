@@ -12,4 +12,6 @@ tags: ["unique"]
 
 <h4>You look at track & field and think "there has to be more than this."</h4><br>
 
-Take a look at what we're about. Then get in touch with us on IG, Discord or e-mail.
+Take a look at what we're about. Then get in touch with us on IG, Discord or e-mail, and [sign up for our e-mails](http://eepurl.com/grB-vn). 
+
+
