@@ -6,3 +6,4 @@ theme = "hyde"
 [params]
  themeColor = "theme-base-NAL"
  logo = "images/NAL_Shield_White.png"
+ description = "Athletics deserves more."
