@@ -2,7 +2,7 @@
 layout: page
 linktitle: For athletes
 title: What's in it for you?
-date: May 15, 2019
+date: "May 15, 2019"
 menu:
   main:
     weight: 1
